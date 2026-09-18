@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Файлы приложения (config.json, экспорт CSV) лежат в его внешнем каталоге. -->
+    <external-files-path name="внешние" path="." />
+    <files-path name="внутренние" path="." />
+</paths>

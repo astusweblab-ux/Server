@@ -1,0 +1,19 @@
+# --- Сборка ---
+.gradle/
+build/
+app/build/
+local.properties
+captures/
+*.hprof
+*.apk
+
+# --- Подписи: в репозиторий не попадают ---
+*.keystore
+*.jks
+
+# --- Редакторы ---
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db

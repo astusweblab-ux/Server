@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Палитра та же, что в настольном приложении (server_monitor/desktop/theme.py). -->
+    <color name="bg">#0b1120</color>
+    <color name="panel">#131c30</color>
+    <color name="accent">#3ea6ff</color>
+    <color name="icon_bg">#0b1120</color>
+</resources>

@@ -1,0 +1,89 @@
+@@МОНИТОР@@
+Ip: Forwarding DefaultTTL InReceives InHdrErrors InAddrErrors ForwDatagrams InUnknownProtos InDiscards InDelivers OutRequests OutDiscards OutNoRoutes ReasmTimeout ReasmReqds ReasmOKs ReasmFails FragOKs FragFails FragCreates
+Ip: 2 64 1467762 0 7 0 0 0 1196475 1103123 20 1 0 0 0 0 0 0 0
+Icmp: InMsgs InErrors InCsumErrors InDestUnreachs InTimeExcds InParmProbs InSrcQuenchs InRedirects InEchos InEchoReps InTimestamps InTimestampReps InAddrMasks InAddrMaskReps OutMsgs OutErrors OutDestUnreachs OutTimeExcds OutParmProbs OutSrcQuenchs OutRedirects OutEchos OutEchoReps OutTimestamps OutTimestampReps OutAddrMasks OutAddrMaskReps
+Icmp: 60 7 0 60 0 0 0 0 0 0 0 0 0 0 67 0 67 0 0 0 0 0 0 0 0 0 0
+IcmpMsg: InType3 OutType3
+IcmpMsg: 60 67
+Tcp: RtoAlgorithm RtoMin RtoMax MaxConn ActiveOpens PassiveOpens AttemptFails EstabResets CurrEstab InSegs OutSegs RetransSegs InErrs OutRsts InCsumErrors
+Tcp: 1 200 120000 -1 31776 60983 780 2011 8 1118232 1292309 3921 0 5181 0
+Udp: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti MemErrors
+Udp: 78094 41 0 78133 0 0 0 5 0
+UdpLite: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti MemErrors
+UdpLite: 0 0 0 0 0 0 0 0 0
+@@МОНИТОР@@
+TcpExt: SyncookiesSent SyncookiesRecv SyncookiesFailed EmbryonicRsts PruneCalled RcvPruned OfoPruned OutOfWindowIcmps LockDroppedIcmps ArpFilter TW TWRecycled TWKilled PAWSActive PAWSEstab DelayedACKs DelayedACKLocked DelayedACKLost ListenOverflows ListenDrops TCPHPHits TCPPureAcks TCPHPAcks TCPRenoRecovery TCPSackRecovery TCPSACKReneging TCPSACKReorder TCPRenoReorder TCPTSReorder TCPFullUndo TCPPartialUndo TCPDSACKUndo TCPLossUndo TCPLostRetransmit TCPRenoFailures TCPSackFailures TCPLossFailures TCPFastRetrans TCPSlowStartRetrans TCPTimeouts TCPLossProbes TCPLossProbeRecovery TCPRenoRecoveryFail TCPSackRecoveryFail TCPRcvCollapsed TCPBacklogCoalesce TCPDSACKOldSent TCPDSACKOfoSent TCPDSACKRecv TCPDSACKOfoRecv TCPAbortOnData TCPAbortOnClose TCPAbortOnMemory TCPAbortOnTimeout TCPAbortOnLinger TCPAbortFailed TCPMemoryPressures TCPMemoryPressuresChrono TCPSACKDiscard TCPDSACKIgnoredOld TCPDSACKIgnoredNoUndo TCPSpuriousRTOs TCPMD5NotFound TCPMD5Unexpected TCPMD5Failure TCPSackShifted TCPSackMerged TCPSackShiftFallback TCPBacklogDrop PFMemallocDrop TCPMinTTLDrop TCPDeferAcceptDrop IPReversePathFilter TCPTimeWaitOverflow TCPReqQFullDoCookies TCPReqQFullDrop TCPRetransFail TCPRcvCoalesce TCPOFOQueue TCPOFODrop TCPOFOMerge TCPChallengeACK TCPSYNChallenge TCPFastOpenActive TCPFastOpenActiveFail TCPFastOpenPassive TCPFastOpenPassiveFail TCPFastOpenListenOverflow TCPFastOpenCookieReqd TCPFastOpenBlackhole TCPSpuriousRtxHostQueues BusyPollRxPackets TCPAutoCorking TCPFromZeroWindowAdv TCPToZeroWindowAdv TCPWantZeroWindowAdv TCPSynRetrans TCPOrigDataSent TCPHystartTrainDetect TCPHystartTrainCwnd TCPHystartDelayDetect TCPHystartDelayCwnd TCPACKSkippedSynRecv TCPACKSkippedPAWS TCPACKSkippedSeq TCPACKSkippedFinWait2 TCPACKSkippedTimeWait TCPACKSkippedChallenge TCPWinProbe TCPKeepAlive TCPMTUPFail TCPMTUPSuccess TCPDelivered TCPDeliveredCE TCPAckCompressed TCPZeroWindowDrop TCPRcvQDrop TCPWqueueTooBig TCPFastOpenPassiveAltKey TcpTimeoutRehash TcpDuplicateDataRehash TCPDSACKRecvSegs TCPDSACKIgnoredDubious TCPMigrateReqSuccess TCPMigrateReqFailure
+TcpExt: 0 0 1 727 0 0 0 0 0 0 37789 60 0 0 1 25388 221 246 0 6 281729 230496 389095 0 182 0 59 3 9 0 4 29 64 125 0 17 5 550 8 2709 866 91 0 8 0 1642 230 0 216 0 1553 12 0 12 0 0 0 0 0 0 130 0 0 0 0 1720 4100 592 0 0 0 0 9 0 0 0 0 20923 1349 0 0 7 6 0 0 0 0 0 0 0 0 0 4270 3 3 272 2471 925273 45 5020 15 1235 15 0 2 0 0 0 0 81 0 0 951989 0 459 0 0 0 0 273 6 218 0 0 0
+IpExt: InNoRoutes InTruncatedPkts InMcastPkts OutMcastPkts InBcastPkts OutBcastPkts InOctets OutOctets InMcastOctets OutMcastOctets InBcastOctets OutBcastOctets InCsumErrors InNoECTPkts InECT1Pkts InECT0Pkts InCEPkts ReasmOverlaps
+IpExt: 0 0 1428 0 257092 0 691332488 1110320648 51408 0 64925282 0 0 1479803 0 22 0 0
+MPTcpExt: MPCapableSYNRX MPCapableSYNTX MPCapableSYNACKRX MPCapableACKRX MPCapableFallbackACK MPCapableFallbackSYNACK MPCapableEndpAttempt MPFallbackTokenInit MPTCPRetrans MPJoinNoTokenFound MPJoinSynRx MPJoinSynBackupRx MPJoinSynAckRx MPJoinSynAckBackupRx MPJoinSynAckHMacFailure MPJoinAckRx MPJoinAckHMacFailure DSSNotMatching DSSCorruptionFallback DSSCorruptionReset InfiniteMapRx DSSNoMatchTCP DataCsumErr OFOQueueTail OFOQueue OFOMerge NoDSSInWindow DuplicateData AddAddr EchoAdd PortAdd AddAddrDrop MPJoinPortSynRx MPJoinPortSynAckRx MPJoinPortAckRx MismatchPortSynRx MismatchPortAckRx RmAddr RmAddrDrop RmSubflow MPPrioTx MPPrioRx MPFailTx MPFailRx RcvPruned SubflowStale SubflowRecover
+MPTcpExt: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+@@МОНИТОР@@
+sockets: used 250
+TCP: inuse 20 orphan 0 tw 20 alloc 24 mem 3
+UDP: inuse 3 mem 3
+UDPLITE: inuse 0
+RAW: inuse 0
+FRAG: inuse 0 memory 0
+TCP6: inuse 4
+UDP6: inuse 1
+UDPLITE6: inuse 0
+RAW6: inuse 1
+FRAG6: inuse 0 memory 0
+@@МОНИТОР@@
+Total: 250
+TCP:   44 (estab 8, closed 20, orphaned 0, timewait 20)
+
+Transport Total     IP        IPv6
+RAW	  1         0         1        
+UDP	  4         3         1        
+TCP	  24        20        4        
+INET	  29        23        6        
+FRAG	  0         0         0        
+
+@@МОНИТОР@@
+19
+@@МОНИТОР@@
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo: 486843152  697266    0    0    0     0          0         0 486843152  697266    0    0    0     0       0          0
+enp0s25: 226678769  875718    0 33999    0     0          0     34889 655728374  742719    0    0    0     0       0          0
+@@МОНИТОР@@
+81
+262144
+@@МОНИТОР@@
+net.ipv4.tcp_congestion_control = cubic
+net.ipv4.tcp_available_congestion_control = reno cubic
+net.core.default_qdisc = fq_codel
+net.core.somaxconn = 4096
+net.ipv4.tcp_max_syn_backlog = 1024
+net.ipv4.tcp_fin_timeout = 60
+net.ipv4.tcp_tw_reuse = 2
+net.ipv4.tcp_max_tw_buckets = 65536
+net.ipv4.ip_local_port_range = 32768	60999
+net.core.netdev_max_backlog = 1000
+net.core.rmem_max = 212992
+net.core.wmem_max = 212992
+net.core.rmem_default = 212992
+net.core.wmem_default = 212992
+net.ipv4.tcp_rmem = 4096	131072	6291456
+net.ipv4.tcp_wmem = 4096	16384	4194304
+net.ipv4.tcp_mem = 188232	250976	376464
+net.ipv4.udp_mem = 376464	501952	752928
+net.ipv4.tcp_syncookies = 1
+net.ipv4.tcp_slow_start_after_idle = 1
+net.ipv4.tcp_fastopen = 1
+net.ipv4.tcp_mtu_probing = 0
+net.ipv4.tcp_keepalive_time = 7200
+net.ipv4.tcp_retries2 = 15
+net.ipv4.tcp_syn_retries = 6
+net.ipv4.tcp_synack_retries = 5
+net.netfilter.nf_conntrack_max = 262144
+net.netfilter.nf_conntrack_tcp_timeout_established = 432000
+@@МОНИТОР@@
+0002af3e 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+0002a1c7 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000001
+@@МОНИТОР@@
+lo unknown 1 - unknown
+enp0s25 up 1 1000 full
+@@МОНИТОР@@

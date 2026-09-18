@@ -1,0 +1,76 @@
+@@МОНИТОР@@
+3859.66 15045.51
+@@МОНИТОР@@
+@@МОНИТОР@@
+5.15.0-191-generic
+@@МОНИТОР@@
+linux-image-5.15.0-191-generic	5.15.0-191.201
+linux-image-generic	5.15.0.191.169
+linux-image-unsigned-5.15.0-191-generic	
+@@МОНИТОР@@
+5
+@@МОНИТОР@@
+13
+@@МОНИТОР@@
+5
+@@МОНИТОР@@
+0
+@@МОНИТОР@@
+@@МОНИТОР@@
+Archived and active journals take up 80.0M in the file system.
+@@МОНИТОР@@
+790088042
+@@МОНИТОР@@
+649	/var/log/journal
+32	/var/log/syslog.1
+27	/var/log/syslog
+22	/var/log/vsftpd.log.1
+5	/var/log/btmp
+4	/var/log/auth.log.1
+@@МОНИТОР@@
+Timezone=Europe/Kyiv
+NTPSynchronized=yes
+@@МОНИТОР@@
+systemd-timesyncd=active
+chrony=inactive
+ntp=inactive
+openntpd=inactive
+@@МОНИТОР@@
+Startup finished in 1.616s (firmware) + 4.444s (loader) + 6.395s (kernel) + 11.960s (userspace) = 24.418s 
+@@МОНИТОР@@
+/dev/sda2      249792131072 16883560448 220145254400       8% /
+@@МОНИТОР@@
+MemTotal:       16283496 kB
+MemAvailable:   15109512 kB
+SwapTotal:       4194300 kB
+SwapFree:        4194300 kB
+@@МОНИТОР@@
+1089
+@@МОНИТОР@@
+97
+@@МОНИТОР@@
+enabled
+enabled
+active
+@@МОНИТОР@@
+sda  238.5G TS256GSSD230S
+sdb  931.5G ST1000LM048-2E71
+@@МОНИТОР@@
+/dev/sda2
+/dev/loop0
+/dev/loop1
+/dev/loop2
+/dev/loop3
+/dev/loop4
+/dev/loop5
+/dev/loop6
+/dev/loop7
+/dev/sda1
+@@МОНИТОР@@
+/dev/disk/by-uuid/7c41df06-728e-41cf-aada-d677b5c07797 / ext4 defaults 0 1
+/dev/disk/by-uuid/69EC-58E5 /boot/efi vfat defaults 0 1
+/swap.img	none	swap	sw	0	0
+/dev/sda1 /boot/efi vfat defaults 0 1
+@@МОНИТОР@@
+@@МОНИТОР@@
+конец снимка

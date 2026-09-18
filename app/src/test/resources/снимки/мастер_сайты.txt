@@ -1,0 +1,15 @@
+    server_name blembula.pp.ua 192.0.2.10
+    server_name blembula.pp.ua
+    server_name 192.168.0.2
+    server_name blembula.pp.ua 192.0.2.10
+    server_name blembula.pp.ua
+    server_name blembula.pp.ua 192.0.2.10
+    server_name blembula.pp.ua
+	server_name _
+    server_name _
+    server_name _
+    server_name blembula.pp.ua 192.0.2.10
+    server_name zsulink.pp.ua
+    server_name zsulink.pp.ua
+    server_name dealscout.pp.ua
+    server_name dealscout.pp.ua

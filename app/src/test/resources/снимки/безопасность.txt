@@ -1,0 +1,43 @@
+@@МОНИТОР@@
+==sshd==
+Status for the jail: sshd
+|- Filter
+|  |- Currently failed:	76
+|  |- Total failed:	1548
+|  `- File list:	/var/log/auth.log
+`- Actions
+   |- Currently banned:	0
+   |- Total banned:	29
+   `- Banned IP list:	
+@@МОНИТОР@@
+2026-09-16 06:43:41,256 fail2ban.actions        [813]: NOTICE  [sshd] Ban 203.0.113.4
+2026-09-16 07:43:40,455 fail2ban.actions        [813]: NOTICE  [sshd] Unban 203.0.113.4
+2026-09-16 08:17:41,483 fail2ban.actions        [813]: NOTICE  [sshd] Ban 203.0.113.3
+2026-09-16 09:17:40,671 fail2ban.actions        [813]: NOTICE  [sshd] Unban 203.0.113.3
+2026-09-16 14:20:53,808 fail2ban.actions        [813]: NOTICE  [sshd] Ban 203.0.113.5
+2026-09-16 15:20:53,171 fail2ban.actions        [813]: NOTICE  [sshd] Unban 203.0.113.5
+2026-09-16 16:04:53,039 fail2ban.actions        [813]: NOTICE  [sshd] Ban 203.0.113.2
+2026-09-16 16:26:19,050 fail2ban.actions        [813]: NOTICE  [sshd] Ban 203.0.113.1
+2026-09-16 17:04:52,487 fail2ban.actions        [813]: NOTICE  [sshd] Unban 203.0.113.2
+2026-09-16 17:26:18,522 fail2ban.actions        [813]: NOTICE  [sshd] Unban 203.0.113.1
+@@МОНИТОР@@
+Status: active
+
+     To                         Action      From
+     --                         ------      ----
+[ 1] 3009/tcp                   ALLOW IN    Anywhere                  
+[ 2] 80/tcp                     ALLOW IN    Anywhere                  
+[ 3] 443/tcp                    ALLOW IN    Anywhere                  
+[ 4] 3001/tcp                   ALLOW IN    Anywhere                  
+[ 5] 2222/tcp                   ALLOW IN    Anywhere                  
+[ 6] 21/tcp                     ALLOW IN    Anywhere                  
+[ 7] 40000:50000/tcp            ALLOW IN    Anywhere                  
+[ 8] 3009/tcp (v6)              ALLOW IN    Anywhere (v6)             
+[ 9] 80/tcp (v6)                ALLOW IN    Anywhere (v6)             
+[10] 443/tcp (v6)               ALLOW IN    Anywhere (v6)             
+[11] 3001/tcp (v6)              ALLOW IN    Anywhere (v6)             
+[12] 2222/tcp (v6)              ALLOW IN    Anywhere (v6)             
+[13] 21/tcp (v6)                ALLOW IN    Anywhere (v6)             
+[14] 40000:50000/tcp (v6)       ALLOW IN    Anywhere (v6)             
+
+@@МОНИТОР@@

@@ -1,0 +1,17 @@
+@@МОНИТОР@@
+ 6.0  0.0 sshd
+ 1.1  2.6 mysqld
+ 0.3  0.5 gunicorn
+ 0.2  0.0 redis-server
+ 0.2  0.6 python
+ 0.0  0.0 systemd
+ 0.0  0.0 kthreadd
+ 0.0  0.0 rcu_gp
+@@МОНИТОР@@
+5.15.0-191-generic
+serverastus
+@@МОНИТОР@@
+50000
+@@МОНИТОР@@
+Ubuntu 22.04.5 LTS
+@@МОНИТОР@@

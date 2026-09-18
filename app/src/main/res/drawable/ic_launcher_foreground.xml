@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Иконка: две «полки» сервера с индикаторами и линия пульса мониторинга. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <path
+            android:fillColor="#3ea6ff"
+            android:pathData="M30,32 h48 a5,5 0 0 1 5,5 v10 a5,5 0 0 1 -5,5 h-48 a5,5 0 0 1 -5,-5 v-10 a5,5 0 0 1 5,-5 z" />
+        <path
+            android:fillColor="#1f2c4a"
+            android:pathData="M30,56 h48 a5,5 0 0 1 5,5 v10 a5,5 0 0 1 -5,5 h-48 a5,5 0 0 1 -5,-5 v-10 a5,5 0 0 1 5,-5 z" />
+        <path
+            android:fillColor="#31d17b"
+            android:pathData="M71,42 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+        <path
+            android:fillColor="#f5c451"
+            android:pathData="M71,66 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 z" />
+        <path
+            android:pathData="M18,86 L34,86 L41,74 L50,94 L58,80 L65,86 L90,86"
+            android:strokeColor="#31d17b"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="4" />
+    </group>
+</vector>

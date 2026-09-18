@@ -1,0 +1,35 @@
+  astus-projects.service      loaded active running ASTUS PROJECTS (OPEN LAB) catalogue — Next.js standalone server
+  blembula.service            loaded active running Blembula App
+  cron.service                loaded active running Regular background program processing daemon
+  dbus.service                loaded active running D-Bus System Message Bus
+  dealscout.service           loaded active running DealScout FastAPI backend
+  fail2ban.service            loaded active running Fail2Ban Service
+  fwupd.service               loaded active running Firmware update daemon
+  getty@tty1.service          loaded active running Getty on tty1
+  irqbalance.service          loaded active running irqbalance daemon
+  mysql.service               loaded active running MySQL Community Server
+  networkd-dispatcher.service loaded active running Dispatcher daemon for systemd-networkd
+  nginx.service               loaded active running A high performance web server and a reverse proxy server
+  polkit.service              loaded active running Authorization Manager
+  postgresql@14-main.service  loaded active running PostgreSQL Cluster 14-main
+  postgresql@17-main.service  loaded active running PostgreSQL Cluster 17-main
+  redis-server.service        loaded active running Advanced key-value store
+  rsyslog.service             loaded active running System Logging Service
+  setevaya-strazha.service    loaded active running Сторож сетевого линка enp0s25 (самовосстановление после обрыва)
+  smartmontools.service       loaded active running Self Monitoring and Reporting Technology (SMART) Daemon
+  snapd.service               loaded active running Snap Daemon
+  ssh.service                 loaded active running OpenBSD Secure Shell server
+  systemd-journald.service    loaded active running Journal Service
+  systemd-logind.service      loaded active running User Login Management
+  systemd-networkd.service    loaded active running Network Configuration
+  systemd-resolved.service    loaded active running Network Name Resolution
+  systemd-timesyncd.service   loaded active running Network Time Synchronization
+  systemd-udevd.service       loaded active running Rule-based Manager for Device Events and Files
+  thermald.service            loaded active running Thermal Daemon Service
+  udisks2.service             loaded active running Disk Manager
+  unattended-upgrades.service loaded active running Unattended Upgrades Shutdown
+  upower.service              loaded active running Daemon for power management
+  user@1000.service           loaded active running User Manager for UID 1000
+  user@1001.service           loaded active running User Manager for UID 1001
+  vsftpd.service              loaded active running vsftpd FTP server
+  zsu-license.service         loaded active running ZSU LINK license/download server

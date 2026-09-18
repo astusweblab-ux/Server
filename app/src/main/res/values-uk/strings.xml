@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Монітор сервера</string>
+    <string name="channel_monitor_name">Моніторинг сервера</string>
+    <string name="channel_monitor_desc">Постійне спостереження за сервером і сайтами</string>
+    <string name="channel_alerts_name">Оповіщення про збої</string>
+    <string name="channel_alerts_desc">Збої, попередження та важливі події</string>
+    <string name="channel_events_name">Події</string>
+    <string name="channel_events_desc">Відновлення роботи та службові повідомлення</string>
+    <string name="widget_label">Сервер — зведення</string>
+    <string name="widget_description">ЦП, ОЗП, диск і доступність сайтів/портів без відкриття застосунку</string>
+</resources>

@@ -1,0 +1,9 @@
+nginx	active	loaded	A high performance web server and a reverse proxy server	Wed 2026-09-16 06:16:21 EEST
+mysql	active	loaded	MySQL Community Server	Mon 2026-09-14 22:31:41 EEST
+postgresql@14-main	active	loaded	PostgreSQL Cluster 14-main	Mon 2026-09-14 22:31:41 EEST
+redis-server	active	loaded	Advanced key-value store	Mon 2026-09-14 22:31:39 EEST
+blembula	active	loaded	Blembula App	Wed 2026-09-16 21:24:55 EEST
+dealscout	active	loaded	DealScout FastAPI backend	Wed 2026-09-16 19:38:20 EEST
+fail2ban	active	loaded	Fail2Ban Service	Mon 2026-09-14 22:31:39 EEST
+ssh	active	loaded	OpenBSD Secure Shell server	Mon 2026-09-14 22:31:39 EEST
+несуществующая	inactive	not-found	\xd0\xbd\xd0\xb5\xd1\x81\xd1\x83\xd1\x89\xd0\xb5\xd1\x81\xd1\x82\xd0\xb2\xd1\x83\xd1\x8e\xd1\x89\xd0\xb0\xd1\x8f.service	n/a

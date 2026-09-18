@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Базовые строки — английские: неизвестный язык системы даёт английский интерфейс.
+         Русский — values-ru, украинский — values-uk. -->
+    <string name="app_name">Server Monitor</string>
+    <string name="channel_monitor_name">Server monitoring</string>
+    <string name="channel_monitor_desc">Continuous watching of the server and websites</string>
+    <string name="channel_alerts_name">Failure alerts</string>
+    <string name="channel_alerts_desc">Failures, warnings and important events</string>
+    <string name="channel_events_name">Recovery notices</string>
+    <string name="channel_events_desc">Recoveries and service messages</string>
+    <string name="widget_label">Server — summary</string>
+    <string name="widget_description">CPU, RAM, disk and site/port availability without opening the app</string>
+</resources>
